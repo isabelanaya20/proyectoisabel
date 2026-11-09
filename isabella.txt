@@ -1,0 +1,14 @@
+DIARIO DE CLASE – GITHUB
+
+Fecha: 28 de octubre de 2026
+En esta clase estuvimos trabajando en la creación de un diario de seguimiento del proyecto y aprendimos sobre el uso de GitHub para trabajar de manera compartida con un compañero.
+Se explicó cómo crear un repositorio compartido, donde cada integrante pueda subir sus archivos y avances sin intervenir ni modificar los archivos del otro.
+También se explicó cómo crear ramas y los diferentes tipos de ramas que se pueden utilizar en GitHub.
+
+Fecha: 4 de noviembre de 2026
+No pude asistir a esta clase.
+
+Observación:
+Estoy realizando este proceso apenas ahora porque anteriormente no había podido instalar ni configurar GitHub y Git Bash en mi computador.
+Por esta razón, no había logrado seguir las actividades prácticas que se venían desarrollando en clase. 
+Actualmente estoy comenzando a realizar los pasos necesarios para trabajar en el proyecto.
