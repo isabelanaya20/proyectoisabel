@@ -1,7 +1,8 @@
 DIARIO DE CLASE – GITHUB
 
 Fecha: 28 de octubre de 2026
-En esta clase estuvimos trabajando en la creación de un diario de seguimiento del proyecto y aprendimos sobre el uso de GitHub para trabajar de manera compartida con un compañero.
+En esta clase estuvimos trabajando en la creación de un diario de seguimiento del proyecto y 
+aprendimos sobre el uso de GitHub para trabajar de manera compartida con un compañero.
 Se explicó cómo crear un repositorio compartido, donde cada integrante pueda subir sus archivos y avances sin intervenir ni modificar los archivos del otro.
 También se explicó cómo crear ramas y los diferentes tipos de ramas que se pueden utilizar en GitHub.
 
@@ -11,4 +12,56 @@ No pude asistir a esta clase.
 Observación:
 Estoy realizando este proceso apenas ahora porque anteriormente no había podido instalar ni configurar GitHub y Git Bash en mi computador.
 Por esta razón, no había logrado seguir las actividades prácticas que se venían desarrollando en clase. 
-Actualmente estoy comenzando a realizar los pasos necesarios para trabajar en el proyecto.
+Actualmente estoy comenzando a realizar los pasos necesarios para trabajar en el proyecto.        
+
+
+CLASE 9 de noviembre – MATPLOTLIB EN PYTHON
+
+1. ¿Qué es Matplotlib?
+
+Matplotlib es una biblioteca de Python que permite crear gráficas y representar datos de manera visual. 
+Se utiliza para analizar información y facilitar su interpretación.
+
+2. ¿Qué es Pyplot?
+
+Pyplot es una herramienta de Matplotlib que permite crear gráficas mediante funciones sencillas.
+
+3. Importación de bibliotecas
+
+Para trabajar con gráficas se utilizan las siguientes instrucciones:
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+- matplotlib.pyplot: permite crear y personalizar gráficas.
+- numpy: permite trabajar con datos numéricos y arreglos.
+
+4. Pasos para crear una gráfica
+
+- Organizar los datos.
+- Seleccionar el tipo de gráfica.
+- Personalizar el título, las etiquetas y los colores.
+- Mostrar la gráfica utilizando plt.show().
+
+5. Tipos de gráficas
+
+Se trabajaron diferentes formas de representar información, como:
+
+- Gráficas de barras.
+- Gráficas circulares o de torta.
+- Gráficas de líneas.
+
+6. Gráficas circulares
+
+Se utilizó la función plt.pie() para representar datos en porcentajes.
+
+Algunos de sus elementos son:
+
+- labels: permite colocar los nombres de las categorías.
+- autopct: permite mostrar el porcentaje de cada parte.
+- plt.title(): permite agregar un título.
+- plt.show(): permite visualizar la gráfica.
+**Conclusión**
+
+Lo anterior es un resumen de algunos de los temas y herramientas que se trabajaron durante la clase. 
+Se realizaron ejercicios prácticos en Google Colab, aprendiendo a crear diferentes tipos de gráficas para representar y analizar datos
