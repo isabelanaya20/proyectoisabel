@@ -1,0 +1,27 @@
+Heart Failure Clinical Records Dataset
+Descripción general
+Esta base de datos contiene información médica de 299 pacientes que presentan insuficiencia cardíaca. Incluye datos sobre la edad, anemia, diabetes, presión arterial alta, frecuencia de enfermedades, resultados de exámenes de sangre y características relacionadas con el funcionamiento del corazón.
+La información fue recopilada durante el seguimiento médico de los pacientes. Su propósito es analizar los registros clínicos y estudiar la relación entre las condiciones de salud de los pacientes y los eventos de fallecimiento durante el periodo de seguimiento.
+La base de datos fue publicada en el repositorio UCI Machine Learning Repository y está relacionada con un estudio realizado por Davide Chicco y Giuseppe Jurman en 2020. 
+archive.ics.uci.edu+1
+
+Fuente: UCI Machine Learning Repository.
+Enlace: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+Número de filas: 299 registros.
+Número de columnas: 13.
+Formato: Excel (.xlsx).
+Descripción de columnas
+Nombre de columna	Tipo de dato	Descripción	Ejemplo
+age	Numérico (int)	Edad del paciente en años.	75
+anaemia	Numérico (int)	Indica si el paciente presenta anemia.	0
+creatinine_phosphokinase	Numérico (int)	Nivel de la enzima creatina fosfoquinasa en la sangre.	582
+diabetes	Numérico (int)	Indica si el paciente tiene diabetes.	0
+ejection_fraction	Numérico (int)	Porcentaje de sangre que expulsa el corazón en cada contracción.	20
+high_blood_pressure	Numérico (int)	Indica si el paciente presenta presión arterial alta.	1
+platelets	Numérico (float)	Cantidad de plaquetas en la sangre.	265000
+serum_creatinine	Numérico (float)	Nivel de creatinina en el suero sanguíneo.	1.9
+serum_sodium	Numérico (int)	Nivel de sodio en la sangre.	130
+sex	Numérico (int)	Indica el sexo del paciente mediante una codificación numérica.	1
+smoking	Numérico (int)	Indica si el paciente tiene antecedente de tabaquismo.	0
+time	Numérico (int)	Tiempo de seguimiento del paciente en días.	4
+DEATH_EVENT	Numérico (int)	Indica si el paciente falleció durante el periodo de seguimiento.	1

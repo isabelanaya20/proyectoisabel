@@ -1,0 +1,62 @@
+Five Vital Signs of Normal People
+Descripción general
+
+Esta base de datos contiene información sobre los signos vitales de 102 personas que no presentan enfermedades. Registra cinco indicadores importantes del estado de salud: presión arterial diastólica, presión arterial sistólica, frecuencia cardíaca, saturación de oxígeno y temperatura corporal.
+Las mediciones fueron realizadas por un médico tres veces al día durante tres días, obteniendo nueve lecturas de cada signo vital por persona. Su propósito es recopilar información que permita observar y analizar los valores de los signos vitales en personas sanas.
+La base de datos fue publicada en la plataforma Zenodo el 5 de octubre de 2021 y sus autores son Abubaker Sherif, Wooi Haw Tan, Chee Pun Ooi y Yi Fei Tan.Fuente: Zenodo.
+
+Enlace: https://zenodo.org/records/5549632⁠
+Número de filas: 102 registros.
+Número de columnas: 46.
+Formato: Excel (.xlsx).
+Formato: Excel (.xlsx).
+
+Descripción de columnas
+
+Nombre de columna	Tipo de dato	Descripción	Ejemplo
+Subject ID	Numérico (int)	Identificador de cada persona.	1
+Diastolic blood pressure reading 1	Numérico (int)	Primera medición de presión diastólica.	66
+Diastolic blood pressure reading 2	Numérico (int)	Segunda medición de presión diastólica.	64
+Diastolic blood pressure reading 3	Numérico (int)	Tercera medición de presión diastólica.	68
+Diastolic blood pressure reading 4	Numérico (int)	Cuarta medición de presión diastólica.	66
+Diastolic blood pressure reading 5	Numérico (int)	Quinta medición de presión diastólica.	66
+Diastolic blood pressure reading 6	Numérico (int)	Sexta medición de presión diastólica.	68
+Diastolic blood pressure reading 7	Numérico (int)	Séptima medición de presión diastólica.	64
+Diastolic blood pressure reading 8	Numérico (int)	Octava medición de presión diastólica.	67
+Diastolic blood pressure reading 9	Numérico (int)	Novena medición de presión diastólica.	65
+Systolic blood pressure reading 1	Numérico (int)	Primera medición de presión sistólica.	110
+Systolic blood pressure reading 2	Numérico (int)	Segunda medición de presión sistólica.	109
+Systolic blood pressure reading 3	Numérico (int)	Tercera medición de presión sistólica.	109
+Systolic blood pressure reading 4	Numérico (int)	Cuarta medición de presión sistólica.	109
+Systolic blood pressure reading 5	Numérico (int)	Quinta medición de presión sistólica.	110
+Systolic blood pressure reading 6	Numérico (int)	Sexta medición de presión sistólica.	107
+Systolic blood pressure reading 7	Numérico (int)	Séptima medición de presión sistólica.	108
+Systolic blood pressure reading 8	Numérico (int)	Octava medición de presión sistólica.	107
+Systolic blood pressure reading 9	Numérico (int)	Novena medición de presión sistólica.	110
+Heart rate reading 1	Numérico (int)	Primera medición de frecuencia cardíaca. 77
+Heart rate reading 2	Numérico (int)	Segunda medición de frecuencia cardíaca. 75
+Heart rate reading 3	Numérico (int)	Tercera medición de frecuencia cardíaca. 77
+Heart rate reading 4	Numérico (int)	Cuarta medición de frecuencia cardíaca.	 74
+Heart rate reading 5	Numérico (int)	Quinta medición de frecuencia cardíaca.	 74
+Heart rate reading 6	Numérico (int)	Sexta medición de frecuencia cardíaca.	 73
+Heart rate reading 7	Numérico (int)	Séptima medición de frecuencia cardíaca. 75
+Heart rate reading 8	Numérico (int)	Octava medición de frecuencia cardíaca.	 77
+Heart rate reading 9	Numérico (int)	Novena medición de frecuencia cardíaca.	 77
+Oxygen saturation reading 1	Numérico (int)	Primera medición de saturación de oxígeno. 98
+Oxygen saturation reading 2	Numérico (int)	Segunda medición de saturación de oxígeno. 99
+Oxygen saturation reading 3	Numérico (int)	Tercera medición de saturación de oxígeno. 99
+Oxygen saturation reading 4	Numérico (int)	Cuarta medición de saturación de oxígeno.  95
+Oxygen saturation reading 5	Numérico (int)	Quinta medición de saturación de oxígeno.  95
+Oxygen saturation reading 6	Numérico (int)	Sexta medición de saturación de oxígeno.   94
+Oxygen saturation reading 7	Numérico (int)	Séptima medición de saturación de oxígeno. 94
+Oxygen saturation reading 8	Numérico (int)	Octava medición de saturación de oxígeno.  97
+Oxygen saturation reading 9	Numérico (int)	Novena medición de saturación de oxígeno.  98
+Temperature reading 1	Numérico (float)	Primera medición de temperatura corporal.  36
+Temperature reading 2	Numérico (float)	Segunda medición de temperatura corporal. 35.9
+Temperature reading 3	Numérico (float)	Tercera medición de temperatura corporal.  36
+Temperature reading 4	Numérico (float)	Cuarta medición de temperatura corporal.  35.7
+Temperature reading 5	Numérico (float)	Quinta medición de temperatura corporal.  36.1
+Temperature reading 6	Numérico (float)	Sexta medición de temperatura corporal.	   36
+Temperature reading 7	Numérico (float)	Séptima medición de temperatura corporal.  36
+Temperature reading 8	Numérico (float)	Octava medición de temperatura corporal.  36.5
+Temperature reading 9	Numérico (float)	Novena medición de temperatura corporal.  36.7
