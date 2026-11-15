@@ -65,3 +65,9 @@ Algunos de sus elementos son:
 
 Lo anterior es un resumen de algunos de los temas y herramientas que se trabajaron durante la clase. 
 Se realizaron ejercicios prácticos en Google Colab, aprendiendo a crear diferentes tipos de gráficas para representar y analizar datos
+
+
+11 de noviembre de 2026
+
+Durante la clase, el profesor nos indicó que revisáramos y corrigiéramos los trabajos anteriores, especialmente las descripciones de las bases de datos. 
+También nos pidió continuar trabajando en el proyecto final, organizando la información y realizando los ajustes necesarios para avanzar con su desarrollo.
