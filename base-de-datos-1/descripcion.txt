@@ -1,0 +1,23 @@
+a) DESCRIPCION GENERAL
+Nombre: Heart Disease UCI
+Que es: Base de datos biomedica para predecir enfermedad cardiaca. Proposito: diagnostico en ingenieria biomedica.
+Como se obtuvieron: Registros clinicos de Cleveland Clinic, examenes de sangre y ECG.
+Fuente: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+Filas y columnas: 303 filas x 14 columnas original, muestra 3 filas
+Formato: CSV
+
+b) DESCRIPCION DE COLUMNAS
+age | int | Edad en anos | 63
+sex | int | Sexo 1=masc 0=fem | 1
+cp | int | Tipo dolor pecho | 3
+trestbps | int | Presion reposo | 145
+chol | int | Colesterol | 233
+fbs | int | Azucar >120 | 1
+restecg | int | ECG reposo | 0
+thalach | int | Frecuencia max | 150
+exang | int | Angina ejercicio | 0
+oldpeak | float | Depresion ST | 2.3
+slope | int | Pendiente ST | 0
+ca | int | Vasos coloreados | 0
+thal | int | Talasemia | 1
+target | int | Enfermedad 1=si | 1

@@ -1,0 +1,18 @@
+a) DESCRIPCION GENERAL
+Nombre: Pima Indians Diabetes
+Que es: Base de datos biomedica para predecir diabetes tipo 2. Proposito: modelos de prediccion.
+Como se obtuvieron: Registros medicos del National Institute of Diabetes, pruebas de laboratorio.
+Fuente: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Filas y columnas: 768 filas x 9 columnas original, muestra 3 filas
+Formato: CSV
+
+b) DESCRIPCION DE COLUMNAS
+Pregnancies | int | Numero embarazos | 6
+Glucose | int | Glucosa plasmatica | 148
+BloodPressure | int | Presion diastolica | 72
+SkinThickness | int | Grosor triceps | 35
+Insulin | int | Insulina serica | 0
+BMI | float | Indice masa corporal | 33.6
+DiabetesPedigreeFunction | float | Funcion pedigree | 0.627
+Age | int | Edad | 50
+Outcome | int | Diabetes 1=si | 1
